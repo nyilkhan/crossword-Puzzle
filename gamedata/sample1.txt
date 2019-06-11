@@ -1,0 +1,17 @@
+ACROSS
+1|trojans|What is USC’s mascot?
+4|ran|What professional baseball team is closest to USC?
+5|sat|What is the four-letter prefix for Computer Science?
+6|roster|What is the four-letter prefix for Computer Science?
+DOWN
+1|test|What is the name of USC’s white horse?
+2|super|What is one of USC’s colors?
+3|jordan|Who is USC’s School of Business named after?
+4|risk|Who is USC’s School of Business named after?
+5|sick|Who is USC’s School of Business named after?
+DOWN
+1|test|What is the name of USC’s white horse?
+2|super|What is one of USC’s colors?
+3|jordan|Who is USC’s School of Business named after?
+4|risk|Who is USC’s School of Business named after?
+5|sick|Who is USC’s School of Business named after?
